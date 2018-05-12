@@ -1,0 +1,38 @@
+_repo: A-Boy-of-the-DominionA-Tale-of-Canadian-Immigration_38206
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, W.
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 38206-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Emigration and immigration -- Juvenile fiction'
+- !lcsh 'Royal North West Mounted Police (Canada) -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'A Boy of the Dominion: A Tale of Canadian Immigration'
+url: http://www.gutenberg.org/ebooks/38206
